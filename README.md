@@ -37,18 +37,6 @@
 
 ---
 
-### Mis estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoColinReyes&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoColinReyes&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 > Perfil en construcción — primer semestre activo en GitHub.
 > Aquí irán mis proyectos de la escuela y los que desarrolle en paralelo.
 
