@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠️ Tecnologías y herramientas
+### Tecnologías y herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -61,7 +61,3 @@
 - 📍 Valle de Chalco, Estado de México
 
 ---
-
-<p align="center">
-  <i>"El código que nadie ve no cuenta como experiencia."</i>
-</p>
