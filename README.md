@@ -4,7 +4,6 @@
 
 <p align="center">
   <b>Estudiante de Ingeniería en Sistemas Computacionales</b><br>
-  <i>TUVCH · Valle de Chalco, México</i>
 </p>
 
 ---
