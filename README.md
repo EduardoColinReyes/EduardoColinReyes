@@ -46,6 +46,5 @@
 
 - LinkedIn: *[linkedin.com/in/eduardo-colin-910078255]*
 - Email: *[educore954@gmail.com]*
-- 📍 Valle de Chalco, Estado de México
 
 ---
