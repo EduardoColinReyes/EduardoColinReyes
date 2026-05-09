@@ -1,5 +1,9 @@
 <!-- README de perfil de GitHub -->
 
+<p align="center">
+  <img width="700" height="412" alt="sadcatGIF" src="https://github.com/user-attachments/assets/e9ca2a96-fdf5-42dd-b794-a7c20561cbae" />
+</p>
+
 <h1 align="center">Hola, soy Eduardo Colin Reyes </h1>
 
 <p align="center">
